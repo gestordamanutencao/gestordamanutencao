@@ -1,6 +1,6 @@
-## SOBRE MIM
+# SOBRE MIM
 
-
+ 
 🎓 Formando em Engenharia Mecânica
 
 ⚙ Especialista em Gestão da Manutenção
