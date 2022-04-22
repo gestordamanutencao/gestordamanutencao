@@ -25,7 +25,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 
 ## CERTIFICADOS
-<img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/red" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/red" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística/red" target="_blank">
+<img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística/pink" target="_blank">
 ⠀
 ⠀
 
