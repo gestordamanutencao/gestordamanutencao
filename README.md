@@ -20,7 +20,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 ⠀
 
 
-<img src="https://badgen.net/badge/IEL%20PA/Gerenciamento%20de%20Projetos%20MS%20Project/red" target="_blank"> <img src="https://badgen.net/badge/IEL%20PA/Analista%20de%20Controle%20de%20Produção/red" target="_blank">
+<img src="https://badgen.net/badge/IEL%20PA/Gerenciamento%20de%20Projetos%20MS%20Project/orange" target="_blank"> <img src="https://badgen.net/badge/IEL%20PA/Analista%20de%20Controle%20de%20Produção/orange" target="_blank">
 ⠀
 ⠀
 
