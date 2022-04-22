@@ -31,6 +31,8 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <img src="https://badgen.net/badge/ENGETELES/Formação%20de%20Analistas%20de%20Manutenção/blue" target="_blank"> <img src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Paradas%20de%20Manutenção/blue" target="_blank">
 <img src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank">
 
+<img src="https://badgen.net/badge/Instituto%20Naval%20da%20Amazônia/Coordenador%20de%20Manutenção%20Naval/green" target="_blank">
+
 ## CONTATO
 <div>
 
