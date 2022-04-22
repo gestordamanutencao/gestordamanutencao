@@ -1,7 +1,7 @@
 ## SOBRE MIM
 
 
-🎓 Engenheiro Mecânico (9/10)
+🎓 Formando em Engenharia Mecânica
 
 ⚙ Especialista em Gestão da Manutenção
 
@@ -14,7 +14,11 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 ## HABILIDADES
 <img src="https://badgen.net/badge/AutoCAD%202D/★★★★☆/red" target="_blank"> <img src="https://badgen.net/badge/AutoCAD%203D/★★☆☆☆/red" target="_blank">
 
-<img src="https://badgen.net/badge/Excel/★★☆☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20Project/★★★★★/green" target="_blank">⠀
+<img src="https://badgen.net/badge/MS%20Excel/★★☆☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20Project/★★★★★/green" target="_blank">⠀<img src="https://badgen.net/badge/MS%20Word/★★★☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20PowerPoint/★★★★★/green" target="_blank">⠀
+
+
+
+<img src="https://badgen.net/badge/SAP%20PM/★★★★☆/cyan" target="_blank"> ⠀
 
 
 ## CERTIFICADOS
@@ -35,6 +39,17 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <img src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank">
 
 <img src="https://badgen.net/badge/Instituto%20Naval%20da%20Amazônia/Coordenador%20de%20Manutenção%20Naval/green" target="_blank">
+
+
+## PROFISSIONAL
+
+
+<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Coordenador%20de%20Manutenção%20Naval/black" target="_blank">
+
+<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank">⠀
+
+<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank">⠀
+
 
 ## CONTATO
 <div>
