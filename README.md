@@ -7,6 +7,9 @@
 
 🚢 Coordenador de Manutenção Naval
 
+🖋 Presidente da International Association of Engineering Student
+ 
+ 
 Atuo na gestão dos recursos humanos e materiais aplicados nas atividades de manutenção, sendo capaz de realizar o planejamento e operacionalização da gestão da manutenção industrial e naval.
 
 Capacitado para a realização do desenvolvimento de ferramentas, métodos e metodologias de gerenciamento das atividades de manutenção, promovendo: segurança, qualidade, redução de custos e melhoria contínua. 
