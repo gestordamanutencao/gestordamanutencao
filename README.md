@@ -1,4 +1,4 @@
-<img src="https://github.com/gestordamanutencao/gestordamanutencao/blob/main/profile.png" align="right"
+<img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profileLQ.jpg" align="right"
      alt="rodrigoaraujo" width="300" height="300">
 
 ## SOBRE MIM
