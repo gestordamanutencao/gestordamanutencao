@@ -1,13 +1,10 @@
-<img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profileLQ.jpg" align="right"
-     alt="rodrigoaraujo" width="300" height="300">
+## **Rodrigo Araujo** 
 
-## SOBRE MIM
 
- 
 🎓 Formando em Engenharia Mecânica
- 
+
 ⚙ Expertise em Gestão da Manutenção e Gestão da Qualidade
- 
+
 🚢 Coordenador de Manutenção Naval
 
 🖋 Presidente da International Association of Engineering Student
@@ -50,9 +47,9 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 ## PROFISSIONAL
 
 
-<img src="https://badgen.net/badge/Consultoria/Manutenção%20Naval/black" target="_blank">
+<img src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/black" target="_blank"> 
 
-<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank">⠀
+<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"> 
 
 <img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank">⠀
 
@@ -61,7 +58,6 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <div>
 
 <a href="https://wa.me/5591981431839" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href="https://instagram.com/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
