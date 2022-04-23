@@ -1,10 +1,10 @@
-# SOBRE MIM
+## SOBRE MIM
 
  
 🎓 Formando em Engenharia Mecânica
-
-⚙ Especialista em Gestão da Manutenção
-
+ 
+⚙ Expertise em Gestão da Manutenção e Gestão da Qualidade
+ 
 🚢 Coordenador de Manutenção Naval
 
 🖋 Presidente da International Association of Engineering Student
@@ -47,7 +47,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 ## PROFISSIONAL
 
 
-<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Coordenador%20de%20Manutenção%20Naval/black" target="_blank">
+<img src="https://badgen.net/badge/Consultoria/Manutenção%20Naval/black" target="_blank">
 
 <img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank">⠀
 
