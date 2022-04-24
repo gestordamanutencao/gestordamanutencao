@@ -1,9 +1,7 @@
-<h1 align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profileLQ.jpg" alt="rodrigoaraujo" width="200">
+<h1 align="left">
+ 
   <br>
   Rodrigo Araujo
-  <br>
   <br>
 </h1>
 
