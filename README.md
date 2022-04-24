@@ -1,11 +1,17 @@
-## **Rodrigo Araujo** 
+<h1 align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profileLQ.jpg" alt="rodrigoaraujo" width="200">
+  <br>
+  Rodrigo Araujo
+  <br>
+  <br>
+</h1>
+
 
 
 🎓 Formando em Engenharia Mecânica
 
 ⚙ Expertise em Gestão da Manutenção e Gestão da Qualidade
-
-🚢 Coordenador de Manutenção Naval
 
 🖋 Presidente da International Association of Engineering Student
  
@@ -21,7 +27,6 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 
 
-<img src="https://badgen.net/badge/SAP%20PM/★★★★☆/cyan" target="_blank"> ⠀
 
 
 ## CERTIFICADOS
