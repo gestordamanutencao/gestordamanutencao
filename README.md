@@ -28,7 +28,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 
 ## CERTIFICADOS
-<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/docs/certificados/Mec%C3%A2nico%20de%20Motores%20a%20Diesel.pdf" target="_blank"><img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística/pink" target="_blank">
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/docs/certificados/Mec%C3%A2nico%20de%20Motores%20a%20Diesel.pdf" target="_blank"><img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística - 5S/pink" target="_blank">
 ⠀
 ⠀
 
