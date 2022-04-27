@@ -19,7 +19,7 @@ Atuo na gestão dos recursos humanos e materiais aplicados nas atividades de man
 Capacitado para a realização do desenvolvimento de ferramentas, métodos e metodologias de gerenciamento das atividades de manutenção, promovendo: segurança, qualidade, redução de custos e melhoria contínua. 
 
 ## HABILIDADES
-<img src="https://badgen.net/badge/AutoCAD%202D/★★★★☆/red" target="_blank"> <img src="https://badgen.net/badge/AutoCAD%203D/★★☆☆☆/red" target="_blank">
+<img src="https://badgen.net/badge/AutoCAD%202D/★★★☆☆/red" target="_blank"> <img src="https://badgen.net/badge/AutoCAD%203D/★★☆☆☆/red" target="_blank">
 
 <img src="https://badgen.net/badge/MS%20Excel/★★☆☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20Project/★★★★★/green" target="_blank">⠀<img src="https://badgen.net/badge/MS%20Word/★★★☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20PowerPoint/★★★★★/green" target="_blank">⠀
 
