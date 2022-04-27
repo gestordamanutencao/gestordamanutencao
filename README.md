@@ -9,7 +9,7 @@
 
 🎓 Formando em Engenharia Mecânica
 
-⚙ Expertise em Gestão da Manutenção e Gestão da Qualidade
+🦺 Expertise em Gestão da Manutenção, Projetos, Processos e Qualidade
 
 🖋 Presidente da International Association of Engineering Student
  
