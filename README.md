@@ -28,23 +28,30 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 
 ## CERTIFICADOS
-<img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística - 5S/pink" target="_blank">
-⠀
-⠀
+
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Mec%C3%A2nico%20de%20Motores%20a%20Diesel.pdf"><img align="center" src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Assistente%20de%20Gestão%20da%20Qualidade.pdf"><img align="center" src="https://badgen.net/badge/SENAI%20PA/Assistente%20Gestão%20da%20Qualidade/pink" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Segurança%20do%20Trabalho.pdf"><img align="center" src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Logística%20-%205S.PDF"><img align="center" src="https://badgen.net/badge/SENAI%20PA/Logística - 5S/pink" target="_blank"></a>  
+
+  
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/MS%20PROJECT.pdf"><img align="center" src="https://badgen.net/badge/IEL%20PA/Gerenciamento%20de%20Projetos%20MS%20Project/orange" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/ANALISTA%20DE%20PCP.pdf"><img align="center" src="https://badgen.net/badge/IEL%20PA/Analista%20de%20Controle%20de%20Produção/orange" target="_blank"></a>  
+
+  
+
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Melhorias%20Especificas.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Melhorias%20Especificas/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Manutenção%20Planejada.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Manutenção%20Planejada/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Manutenção%20Autônoma.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Manutenção%20Autônoma/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Gestão%20de%20Projetos%20para%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Projetos/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Formação%20de%20Planejadores%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Formação%20de%20Planejadores%20de%20Manutenção/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Formação%20de%20Analistas%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Formação%20de%20Analistas%20de%20Manutenção/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Gestão%20de%20Paradas%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Paradas%20de%20Manutenção/blue" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Engenharia%20de%20Confiabilidade.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank"></a>
+
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Coordenador%20de%20Manutenção%20Naval.pdf"><img align="center" src="https://badgen.net/badge/Instituto%20Naval%20da%20Amazônia/Coordenador%20de%20Manutenção%20Naval/green" target="_blank"></a>
 
 
-<img src="https://badgen.net/badge/IEL%20PA/Gerenciamento%20de%20Projetos%20MS%20Project/orange" target="_blank"> <img src="https://badgen.net/badge/IEL%20PA/Analista%20de%20Controle%20de%20Produção/orange" target="_blank">
-⠀
-⠀
-
-
-<img src="https://badgen.net/badge/ENGETELES/Melhorias%20Especificas/blue" target="_blank"> <img src="https://badgen.net/badge/ENGETELES/Manutenção%20Planejada/blue" target="_blank">
-<img src="https://badgen.net/badge/ENGETELES/Manutenção%20Autônoma/blue" target="_blank"> <img src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Projetos/blue" target="_blank">
-<img src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Estoque%20da%20Manutenção/blue" target="_blank"> <img src="https://badgen.net/badge/ENGETELES/Formação%20de%20Planejadores%20de%20Manutenção/blue" target="_blank">
-<img src="https://badgen.net/badge/ENGETELES/Formação%20de%20Analistas%20de%20Manutenção/blue" target="_blank"> <img src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Paradas%20de%20Manutenção/blue" target="_blank">
-<img src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank">
-
-<img src="https://badgen.net/badge/Instituto%20Naval%20da%20Amazônia/Coordenador%20de%20Manutenção%20Naval/green" target="_blank">
 
 
 ## PROFISSIONAL
