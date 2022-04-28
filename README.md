@@ -1,7 +1,7 @@
 <h1 align="left">
  
   <br>
-  Rodrigo Araujo
+  Rodrigo Mendonça Araujo
   <br>
 </h1>
 
@@ -28,7 +28,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 
 ## CERTIFICADOS
-<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/docs/certificados/Mec%C3%A2nico%20de%20Motores%20a%20Diesel.pdf" target="_blank"><img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística - 5S/pink" target="_blank">
+<img src="https://badgen.net/badge/SENAI%20PA/Mecânico%20de%20Motores%20a%20Diesel/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Segurança%20do%20Trabalho/pink" target="_blank"> <img src="https://badgen.net/badge/SENAI%20PA/Logística - 5S/pink" target="_blank">
 ⠀
 ⠀
 
@@ -50,17 +50,74 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 ## PROFISSIONAL
 
 
-<img src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/black" target="_blank"> 
+<img src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/grey" target="_blank"> *(Dez/2021 - Atual)*
+  
+Inspeção de manutenção em ativos;  
+Planejamento e gerenciamento de projetos;  
+Gerenciamento de manutenções corretivas;  
+Gerenciamento de manutenções preventivas;  
+Planejamento e controle de produção;  
+Planejamento de paradas de manutenção;  
+Gestão de pessoas;  
+5S;  
+KPI's de manutenção.  
 
-<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"> 
 
-<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank">⠀
+<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"> *(Abr/2021 - Out/2021)*
+  
+Gestão de processos;  
+Gerenciamento da rotina;  
+Preencher formulários de verificação de serviço;  
+Acompanhar as principais atividades de controle;  
+Analisar KPIs e documentos de qualidade para reporte interno;  
+Garantir a qualidade;  
+Atuar na revisão de problemas, e no encontro de soluções adequadas;  
+Analisar não conformidades, sugerindo soluções;  
+Elaborar diário de obra;  
+Vistoriar obras e estruturas prediais.  
 
 
-## CONTATO
-<div>
+
+
+<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank"> *(Jan/2020 - Jan/2021)*      
+   
+Sugerir melhorias de eficiência nos processos e aumento da produtividade;  
+Auxiliar nas implementações de processos de melhoria contínua;  
+Gerir relatórios;  
+Auxiliar em atividades administrativas;  
+Otimizar redução de custo e melhoria da qualidade;  
+Realizar serviços de levantamento de informações técnicas em campo.  
+  
+ 
+
+## FORMAÇÃO ACADÊMICA
+
+
+**Estácio Belém**  
+*Engenharia Mecânica  (2017 - Atual)*  
+
+Presidente - International Association of Engineering Students (2021 - atual);  
+
+Presidente - Liga Acadêmica de Engenharia Mecânica da Estácio (2020 - 2021);  
+
+Padrinho Veterano - Estácio Belém (2020);  
+
+Organizador - Papo de Engenheiro Estácio Belém (2020);  
+
+Presidente - Associação dos Estudantes de Engenharia do Pará (2019 - 2022);  
+
+Representante de Turma (2017 - atual).  
+  
+
+
+
+<h1 align="center">  
+CONTATO
 
 <a href="https://wa.me/5591981431839" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href="https://instagram.com/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</h1>
+
 
 </div>
