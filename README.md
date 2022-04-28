@@ -85,7 +85,7 @@ Elaborar diário de obra;
 Vistoriar obras e estruturas prediais.  
 
 
-<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/declaração%20de%20estágio%20camila%20navegação.pdf"><img align="center" src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank"></a>  *(Jan/2020 - Jan/2021)*
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/declaração%20de%20estágio%20camila%20navegação.pdf"><img align="center" src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/red" target="_blank"></a>  *(Jan/2020 - Jan/2021)*
 
    
    
@@ -119,7 +119,7 @@ Representante de Turma (2017 - atual).
 
 
 
-<h3 align="center">  
+<h5 align="center">  
 CONTATO
 
 
@@ -128,6 +128,6 @@ CONTATO
 <a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-</h3>
+</h5>
 
 </div>
