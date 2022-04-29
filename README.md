@@ -59,15 +59,18 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/portfolio/portfolio%20camila%20navegação.pdf"><img align="center" src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/grey" target="_blank"></a> *(Dez/2021 - Atual)*
 
   
-Inspeção de manutenção em ativos;  
-Planejamento e gerenciamento de projetos;  
+Planejamento de projetos;  
+Implantação de 5S;  
+Elaboração de procedimentos de manutenção;  
+Planejamento de manutenções preventivas;  
 Gerenciamento de manutenções corretivas;  
-Gerenciamento de manutenções preventivas;  
-Planejamento e controle de produção;  
-Planejamento de paradas de manutenção;  
 Gestão de pessoas;  
-5S;  
-KPI's de manutenção.  
+Criação e análise de KPIs;  
+Promoção da Melhoria Contínua;  
+Acompanhar manutenções preventivas e corretivas;  
+Realizar vistorias e auditorias internas;  
+Avaliar desempenho e prover suporte técnico e recursos, assegurando qualidade dos resultados;  
+Acompanhar o desenvolvimento de atividades administrativas e operacionais, visando a padronização de processos.   
 
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/carta%20de%20recomendação/carta%20de%20recomendação.pdf"><img align="center" src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"></a> *(Abr/2021 - Out/2021)*
 
