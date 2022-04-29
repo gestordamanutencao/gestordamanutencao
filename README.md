@@ -56,8 +56,8 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 
 ## PROFISSIONAL
 
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/portfolio/portfolio%20camila%20navegação.pdf"><img align="center" src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/grey" target="_blank"></a> *(Dez/2021 - Atual)*
 
-<img src="https://badgen.net/badge/Autônomo/Consultoria%20em%20Manutenção%20Naval/grey" target="_blank"> *(Dez/2021 - Atual)*
   
 Inspeção de manutenção em ativos;  
 Planejamento e gerenciamento de projetos;  
@@ -69,8 +69,9 @@ Gestão de pessoas;
 5S;  
 KPI's de manutenção.  
 
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/carta%20de%20recomendação/carta%20de%20recomendação.pdf"><img align="center" src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"></a> *(Abr/2021 - Out/2021)*
 
-<img src="https://badgen.net/badge/Almáa%20Engenharia/Estagiário%20dos%20Processos%20da%20Qualidade/yellow" target="_blank"> *(Abr/2021 - Out/2021)*
+
   
 Gestão de processos;  
 Gerenciamento da rotina;  
@@ -84,9 +85,9 @@ Elaborar diário de obra;
 Vistoriar obras e estruturas prediais.  
 
 
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/declaração%20de%20estágio%20camila%20navegação.pdf"><img align="center" src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/red" target="_blank"></a>  *(Jan/2020 - Jan/2021)*
 
-
-<img src="https://badgen.net/badge/Camila%20Navegação%20e%20Transportes/Estagiário%20de%20Gestão%20da%20Qualidade/black" target="_blank"> *(Jan/2020 - Jan/2021)*      
+   
    
 Sugerir melhorias de eficiência nos processos e aumento da produtividade;  
 Auxiliar nas implementações de processos de melhoria contínua;  
@@ -101,7 +102,7 @@ Realizar serviços de levantamento de informações técnicas em campo.
 
 
 **Estácio Belém**  
-*Engenharia Mecânica  (2017 - Atual)*  
+<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/declaração/declaracao%20de%20matricula.pdf"><img align="center" src="https://badgen.net/badge/Engenharia%20Mecânica/(2017%20-%20Atual)/blue" target="_blank"></a>
 
 Presidente - International Association of Engineering Students (2021 - atual);  
 
@@ -118,13 +119,15 @@ Representante de Turma (2017 - atual).
 
 
 
-<h1 align="center">  
+<h5 align="center">  
 CONTATO
+
+
 
 <a href="https://wa.me/5591981431839" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</h1>
 
+</h5>
 
 </div>
