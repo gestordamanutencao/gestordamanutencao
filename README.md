@@ -1,7 +1,7 @@
 <h1 align="left">
  
   <br>
-  Rodrigo Mendonça Araujo
+  Rodrigo Araujo
   <br>
 </h1>
 
@@ -22,6 +22,8 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <img src="https://badgen.net/badge/AutoCAD%202D/★★★☆☆/red" target="_blank"> <img src="https://badgen.net/badge/AutoCAD%203D/★★☆☆☆/red" target="_blank">
 
 <img src="https://badgen.net/badge/MS%20Excel/★★☆☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20Project/★★★★★/green" target="_blank">⠀<img src="https://badgen.net/badge/MS%20Word/★★★☆☆/green" target="_blank"> <img src="https://badgen.net/badge/MS%20PowerPoint/★★★★★/green" target="_blank">⠀
+
+<img src="https://badgen.net/badge/SAP%20PM/★★★★☆/blue" target="_blank">
 
 
 
@@ -47,7 +49,7 @@ Capacitado para a realização do desenvolvimento de ferramentas, métodos e met
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Formação%20de%20Planejadores%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Formação%20de%20Planejadores%20de%20Manutenção/blue" target="_blank"></a>
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Formação%20de%20Analistas%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Formação%20de%20Analistas%20de%20Manutenção/blue" target="_blank"></a>
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Gestão%20de%20Paradas%20de%20Manutenção.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Gestão%20de%20Paradas%20de%20Manutenção/blue" target="_blank"></a>
-<a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Engenharia%20de%20Confiabilidade.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank"></a>
+ <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Engenharia%20de%20Confiabilidade.pdf"><img align="center" src="https://badgen.net/badge/ENGETELES/Engenharia%20de%20Confiabilidade/blue" target="_blank"></a>  
 
 <a href="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/71aa5321f8767c0518f0244441a3b5915ec27ae9/docs/certificados/Coordenador%20de%20Manutenção%20Naval.pdf"><img align="center" src="https://badgen.net/badge/Instituto%20Naval%20da%20Amazônia/Coordenador%20de%20Manutenção%20Naval/green" target="_blank"></a>
 
