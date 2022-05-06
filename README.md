@@ -1,13 +1,3 @@
-<h1 align="center">
-<p align="center">
-<a href="https://www.rodrigoaraujo.eng.br" title="Rodrigo Araujo">
-<img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profile/profileHQ.png" alt="Rodrigo Araujo" width="200">
-</a>
-<br>Rodrigo Araujo<br>
-</h1>
- <br>
-<br>
-
 🎓 Formando em Engenharia Mecânica
 
 🦺 Expertise em Gestão da Manutenção, Projetos, Processos e Qualidade
