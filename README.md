@@ -1,10 +1,10 @@
 <h1 align="center">
 <p align="center">
-<a href="https://www.rodrigoaraujo.eng.br" title="Rodrigo Mendonça Araujo">
+<a href="https://www.rodrigoaraujo.eng.br" title="Rodrigo Araujo">
 <img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profile/profileHQ.png" alt="ScrollReveal" width="200">
 </a>
   <br>
-  Rodrigo Mendonça Araujo
+  Rodrigo Araujo
   <br>
 </h1>
  <br>
