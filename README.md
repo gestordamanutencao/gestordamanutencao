@@ -1,18 +1,43 @@
 <h1 align="center">
- 
+<p align="center">
+<a href="https://www.rodrigoaraujo.eng.br" title="Rodrigo Mendonça Araujo">
+<img src="https://raw.githubusercontent.com/gestordamanutencao/gestordamanutencao/main/img/profile/profileHQ.png" alt="ScrollReveal" width="200">
+</a>
   <br>
   Rodrigo Mendonça Araujo
   <br>
- 
 </h1>
-<p align="center">Gestão da Manutenção Naval</p>
+ <br>
+<p align="center">
+	<a href="mailto:contato@rodrigoaraujo.eng.br">
+		<img src="https://img.shields.io/badge/email-black" alt="contato@rodrigoaraujo.eng.br">
+	</a>
+	<a href="https://github.com/gestordamanutencao">
+		<img src="https://img.shields.io/badge/github-black" alt="github">
+	</a>
+ 	<a href="http://instagram.com/gestordamanutencao">
+		<img src="https://img.shields.io/badge/instagram-black" alt="instagram">
+	</a>
+	<a href="http://www.linkedin.com/in/gestordamanutencao">
+		<img src="https://img.shields.io/badge/linkedin-black" alt="linkedin">
+	</a>
+	<a href="https://t.me/gestordamanutencao">
+		<img src="https://img.shields.io/badge/telegram-black" alt="telegram">
+	</a>
+	<a href="https://wa.me/5591981431839">
+		<img src="https://img.shields.io/badge/whatsapp-black" alt="whatsapp">
+	</a>
+</p>
 
+<br>
 
 🎓 Formando em Engenharia Mecânica
 
 🦺 Expertise em Gestão da Manutenção, Projetos, Processos e Qualidade
 
 🖋 Presidente da International Association of Engineering Student
+
+📍   Belém/PA, Brasil
  
  
 Atuo na gestão dos recursos humanos e materiais aplicados nas atividades de manutenção, sendo capaz de realizar o planejamento e operacionalização da gestão da manutenção industrial e naval.
@@ -122,35 +147,5 @@ Presidente - Associação dos Estudantes de Engenharia do Pará (2019 - 2022);
 
 Representante de Turma (2017 - atual).  
   
-
-
-
-<br>
-<p align="center">
-	<a href="mailto:contato@rodrigoaraujo.eng.br">
-		<img src="https://img.shields.io/badge/email-black" alt="contato@rodrigoaraujo.eng.br">
-	</a>
-	<a href="https://github.com/gestordamanutencao">
-		<img src="https://img.shields.io/badge/github-black" alt="github">
-	</a>
- 	<a href="http://instagram.com/gestordamanutencao">
-		<img src="https://img.shields.io/badge/instagram-black" alt="instagram">
-	</a>
-	<a href="http://www.linkedin.com/in/gestordamanutencao">
-		<img src="https://img.shields.io/badge/linkedin-black" alt="linkedin">
-	</a>
-	<a href="https://t.me/gestordamanutencao">
-		<img src="https://img.shields.io/badge/telegram-black" alt="telegram">
-	</a>
-	<a href="https://wa.me/5591981431839">
-		<img src="https://img.shields.io/badge/whatsapp-black" alt="whatsapp">
-	</a>
- 	</a>
-	<a href="tel:91981431839">
-		<img src="https://img.shields.io/badge/telefone-black" alt="telefone">
-	</a>
-</p>
-
-<br>
 
 </div>
