@@ -1,10 +1,11 @@
-<h1 align="left">
+<h1 align="center">
  
   <br>
-  Rodrigo Araujo
+  Rodrigo Mendonça Araujo
   <br>
+ 
 </h1>
-
+<p align="center">Gestão da Manutenção Naval</p>
 
 
 🎓 Formando em Engenharia Mecânica
@@ -124,15 +125,32 @@ Representante de Turma (2017 - atual).
 
 
 
-<h5 align="center">  
-CONTATO
+<br>
+<p align="center">
+	<a href="mailto:contato@rodrigoaraujo.eng.br">
+		<img src="https://img.shields.io/badge/email-black" alt="contato@rodrigoaraujo.eng.br">
+	</a>
+	<a href="https://github.com/gestordamanutencao">
+		<img src="https://img.shields.io/badge/github-black" alt="github">
+	</a>
+ 	<a href="http://instagram.com/gestordamanutencao">
+		<img src="https://img.shields.io/badge/instagram-black" alt="instagram">
+	</a>
+	<a href="http://www.linkedin.com/in/gestordamanutencao">
+		<img src="https://img.shields.io/badge/linkedin-black" alt="linkedin">
+	</a>
+	<a href="https://t.me/gestordamanutencao">
+		<img src="https://img.shields.io/badge/telegram-black" alt="telegram">
+	</a>
+	<a href="https://wa.me/5591981431839">
+		<img src="https://img.shields.io/badge/whatsapp-black" alt="whatsapp">
+	</a>
+ 	</a>
+	<a href="tel:91981431839">
+		<img src="https://img.shields.io/badge/telefone-black" alt="telefone">
+	</a>
+</p>
 
-
-
-<a href="https://wa.me/5591981431839" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://t.me/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gestordamanutencao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-</h5>
+<br>
 
 </div>
